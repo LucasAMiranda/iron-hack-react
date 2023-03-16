@@ -1,0 +1,27 @@
+footer {
+    bottom: 0;
+    width: 100%;
+    background-color: #333; /* cor de fundo do footer */
+    height: 100px;
+
+  }
+
+  .m-0{
+    color: white;
+  }
+
+  .auto{
+    display: inline-block;
+}
+
+.icon-link{
+    color: white;
+}
+
+.justify-content-center{
+    margin-top: 40px;
+}
+
+
+ 
+  
